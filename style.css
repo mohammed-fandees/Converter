@@ -1,0 +1,46 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: url(684_widescreen-powerpoint-backgrounds-money-1_1920x1080_h_Wondershare.jpg);
+    background-size: cover;
+}
+header{
+    text-align: center;
+}
+h1, h2{
+    font-family: cursive;
+    color: #fff;
+}
+section{
+    margin-top: 230px;
+}   
+input{
+    outline: none;
+    width: 400px;
+    height: 30px;
+    border: none;
+}
+button{
+    height: 30px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-family: cursive;
+    font-weight: bold;
+}
+div[id="war message"]{
+    font-size: 25px;
+    font-family: cursive;
+    color: #D00;
+}
+div[id="message"]{
+    font-size: 25px;
+    font-family: cursive;
+    color: #1e88e5;
+}
+p{
+    color: #fff;
+    font-family: cursive;
+    position: absolute;
+    bottom: 0;
+}
